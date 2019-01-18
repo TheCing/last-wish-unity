@@ -1,2 +1,2 @@
-# last-wish-unity
-Game Dev Project
+# Last Wish
+A Unity based JRPG inspired by games like Final Fantasy and Dragon Quest.
