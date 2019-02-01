@@ -16,6 +16,8 @@ public class DM_VillainAI : MonoBehaviour {
 	void Start () {
         //position start is 0
         //position.(canvasSize, height/2);
+
+        //test comment
 	}
 	
 	// Update is called once per frame
